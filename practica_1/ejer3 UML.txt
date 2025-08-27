@@ -1,0 +1,9 @@
+-------------------------
+|      Estadistica       |
+-------------------------
+- datos : list<float>
+-------------------------
++ __init__(datos: list<float>)
++ promedio() : float
++ desviacion() : float
+-------------------------

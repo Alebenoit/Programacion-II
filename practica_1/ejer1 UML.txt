@@ -1,0 +1,15 @@
+-------------------------
+|     EcuacionLineal     |
+-------------------------
+- a : float
+- b : float
+- c : float
+- d : float
+- e : float
+- f : float
+-------------------------
++ __init__(a: float, b: float, c: float, d: float, e: float, f: float)
++ tieneSolucion() : bool
++ getX() : float
++ getY() : float
+-------------------------

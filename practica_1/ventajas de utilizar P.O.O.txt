@@ -1,0 +1,16 @@
+Modularidad.-El código se organiza en clases y objetos, separando la lógica por responsabilidades, facilita la lectura, comprensión y mantenimiento del programa.
+
+Reutilización.-Las clases pueden ser reutilizadas en distintos programas o proyectos sin modificar su código, evita duplicación de código y ahorra tiempo de desarrollo.
+
+Mantenibilidad.-Si se necesita cambiar la implementación de un método, solo se modifica la clase correspondiente, sin afectar otras partes del programa, reduce el riesgo de errores al modificar el código.
+
+Abstracción.- Los objetos ocultan los detalles internos y exponen solo la interfaz necesaria (métodos públicos). Esto permite usar objetos sin conocer su implementación interna.
+
+Encapsulamiento.- Los atributos y métodos internos se protegen mediante modificadores de acceso (privados, públicos).
+Controla cómo se accede y modifica la información, aumentando la seguridad del código.
+
+Herencia.- Permite crear nuevas clases basadas en clases existentes, heredando atributos y métodos. Facilita la extensión y especialización de funcionalidades sin repetir código.
+
+Polimorfismo.-Permite que diferentes objetos puedan responder de manera diferente a un mismo mensaje o método. Mejora la flexibilidad y escalabilidad del código.
+
+Escalabilidad.-Facilita la adición de nuevas funcionalidades y el crecimiento del programa sin modificar la estructura existente.

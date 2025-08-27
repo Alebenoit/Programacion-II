@@ -1,0 +1,12 @@
+----------------------------
+|     EcuacionCuadratica    |
+----------------------------
+- a : float
+- b : float
+- c : float
+----------------------------
++ __init__(a: float, b: float, c: float)
++ getDiscriminante() : float
++ getRaiz1() : float
++ getRaiz2() : float
+----------------------------
