@@ -1,0 +1,17 @@
++-----------------------------------+
+|        AlgebraVectorial           |
++-----------------------------------+
+| - vectorA: list<float>            |
+| - vectorB: list<float>            |
++-----------------------------------+
+| + __init__()                      |
+| + __init__(vectorA)               |
+| + __init__(vectorA, vectorB)      |
+| + perpendicular(tipo: int) : bool |
+| + paralelo(tipo: int) : bool      |
+| + proyeccion() : list<float>      |
+| + componente() : float            |
+| + modulo(v: list<float>) : float  |
+| + producto_punto(a,b): float      |
+| + producto_cruz(a,b): list<float> |
++-----------------------------------+
